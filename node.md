@@ -25,10 +25,10 @@ Luckuly some genius has created nvm (Node Version Manager), here is a quick guid
 nvm -v
 ```
 
-- Lastly, run this to install Node.js v24._._
+- Lastly, run this to install Node.js v22._._
 
 ```bash
-nvm install 24
+nvm install 22
 ```
 
 More [here](https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/)
