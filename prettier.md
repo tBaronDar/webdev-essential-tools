@@ -1,14 +1,20 @@
 # Prettier
 
-A tool to autoformat code, e.g, remove excess spaces, empty lines, add semicolons etc. It ensures code uniformity across all team members.
+A tool to autoformat code -e.g, it removes excess spaces, empty lines and adds missing semicolons etc. It ensures code uniformity across all team members.
 
-![prettier](images/prettier.png)
+## What you need to do:
+
+Install the VSCode extension. Make sure that you have enabled **format on save** and you have selected prettier as your **Default Formatter**.
+
+If you don't know how to do these things see this video
 
 [Installation guide](https://www.youtube.com/watch?v=eieTlMwCwWU)
 
-Make sure that you have enabled **format on save** and you have selected prettier as your **Default Formatter**.
+![prettier](images/prettier.png)
 
-Prettier uses a prettierrc file store its configuration here is an example:
+## If you want to know more:
+
+Prettier uses a prettierrc file store its configuration, in our projects I will set it up and we will pass it around through gitHub. Here is an example of prettierrc:
 
 ```json
 tabWidth: 2
