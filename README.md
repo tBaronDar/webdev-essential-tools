@@ -1,6 +1,8 @@
 # Readme
 
-The aim of this document is to be used as reference, in case you need to start a new web development project. It includes a list of very useful tools to help you deliver professional level code. Visit them with order they appear.
+This document is meant to be used as reference. It helps developers start a new web development project or collaborate with others on an existing one.
+
+It includes a list of very useful tools to help us deliver error-free, professional level code. Visit the links with the order they appear.
 
 ## Contents
 

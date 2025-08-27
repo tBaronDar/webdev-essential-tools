@@ -6,7 +6,7 @@ A tool to autoformat code -e.g, it removes excess spaces, empty lines and adds m
 
 Install the VSCode extension. Make sure that you have enabled **format on save** and you have selected prettier as your **Default Formatter**.
 
-If you don't know how to do these things see this [video](https://www.youtube.com/watch?v=eieTlMwCwWU).
+If you don't know how to do these things watch this [video](https://www.youtube.com/watch?v=eieTlMwCwWU).
 
 ![prettier](images/prettier.png)
 
