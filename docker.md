@@ -22,9 +22,10 @@ Search in google: docker mysql
 
 
 There are:
+
 ![billions](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGY3ZWFuYjlndHRtYXAwemhkaGVza29lamVja3Q4aW10Nnp0dGsycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t0idbc5EcKzgFXFfsf/giphy.gif)
 
-images, so follow the docs
+images, so follow the docs.
 
 ## Dockerization
 Dockerization is the process of packaging an application and all its dependencies (libraries, configurations, runtime, etc.) into a standardized unit called a Docker container.
