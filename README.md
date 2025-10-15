@@ -6,9 +6,15 @@ It includes a list of very useful tools to help us deliver error-free, professio
 
 ## Contents
 
+### Frontend:
+
 1. [Node.js and nvm](https://github.com/tBaronDar/webdev-essential-tools/blob/main/node.md)
 2. [Prettier](https://github.com/tBaronDar/webdev-essential-tools/blob/main/prettier.md)
 3. [ESLint](https://github.com/tBaronDar/webdev-essential-tools/blob/main/eslint.md)
 4. [Pre-commit](https://github.com/tBaronDar/webdev-essential-tools/blob/main/pre-commit.md)
+
+### Other
+
+1. [Docker](https://github.com/tBaronDar/webdev-essential-tools/blob/main/docker.md)
 
 Send me a DM if you have problems.

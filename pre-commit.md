@@ -6,9 +6,11 @@ Pre-commit is a script that runs **ESLint** and **Prettier** checks on our code 
 git commit
 ```
 
+It requires python and pip installed on the computer.
+
 ## What you NEED to do:
 
-Install it by running(requires python and pip):
+Install it by running(when you are in the project directory and the project has a local git):
 
 ```bash
 pip install pre-commit
