@@ -10,16 +10,17 @@ It requires python and pip installed on the computer.
 
 ## What you NEED to do:
 
-Install it by running(when you are in the project directory and the project has a local git):
-
-```bash
-pip install pre-commit
-```
-
+First install it on your _PC_ following this [guide](https://pre-commit.com/#install)
 Check if it was installed by running:
 
 ```bash
 pre-commit --version
+```
+
+Then install it for _each project_ that have a git repo by running(when you are in the project directory):
+
+```bash
+pre-commit install --install-hooks
 ```
 
 ## If you want to know more:
